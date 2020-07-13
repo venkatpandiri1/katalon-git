@@ -26,3 +26,4 @@ WebUI.click(findTestObject('Object Repository/Page_CURA Healthcare Service/i_inf
 
 WebUI.closeBrowser()
 
+
